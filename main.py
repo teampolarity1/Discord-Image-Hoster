@@ -4,7 +4,7 @@ import os
 import colorama
 from colorama import Fore
  
-token = "YOUR_TOKEN" # Paste your discord token here!
+token = "mfa.-Nn17P30bQK7Env4_2cf2vjBqhcnFxnQnR8lvmlizRgcuUgQVF5g1GZGYe1ZAUg5b4cw3w7kdroJ1lO4w1KL" # Paste your discord token here!
 prefix = "$" # Customize the prefix.
 title = '''ran by Offender (:''' # Input a title here, like, Ran By Offender!
 linky = "https://put.a.random.link.here" # Over here you make a fake link, like https://offender.on.top or something anything
